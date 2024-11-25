@@ -1,2 +1,2 @@
 # MeetingU
-A lightweight video chat/confernce application
+A lightweight video chat/conference application
